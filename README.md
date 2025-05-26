@@ -46,3 +46,14 @@ Make sure you have **Node.js**, **pnpm** (or npm/yarn/bun), and **Git** installe
 I’m documenting the entire development journey of **Arkive** in a public Notion page:
 
 ➡️ [View the Arkive Build Log on Notion](https://thunder-turn-bb8.notion.site/Arkive-1ff2b00513b580fdafd4c88487e599e6?pvs=74)
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 [H M Rizwan Mazumder](https://codeartisanriz.me)
+
+## 📣 Attribution
+
+If you use this project or parts of it, please consider giving credit by linking back to this repository or mentioning the original author.
+
+Author: [H M Rizwan Mazumder](https://codeartisanriz.me)
